@@ -1,0 +1,92 @@
+LAW
+1 Glass Requirement deficiencies are the prime source of project failures.
+2 Boehm 1 Errors are most frequent during the requirements and design activities and are the more expensive the later they are removed.
+3 Boehm 2 Prototyping (significantly) reduces requirement and design errors, especially for user interfaces.
+4 Davis The value of models depends on the view taken, but none is best for all purposes.
+5 Curtis Good designs require deep application domain knowledge.
+6 Simon Hierarchical structures reduce complexity.
+7 Constantine A structure is stable if cohesion is strong and coupling low.
+8 Parnas Only what is hidden can be changed without risk.
+9 Denert Separation of concerns leads to standard architectures.
+10 Fitts-Shneiderman Screen pointing-time is a function of distance and width.
+11 DeRemer What applies to small systems does not apply to large ones.
+12 Corbató Productivity and reliability depend on the length of a program’s text, independent of language level used.
+13 Dijkstra-Mills-Wirth  Well-structured programs have fewer errors and are easier to maintain.
+14 Lanergan The larger and more decentralized an organization, the more likely it is that it has reuse potential.
+15 McIlroy Software reuse reduces cycle time and increases productivity and quality.
+16 Conway A system reflects the organizational structure that built
+17 Fagan Inspections significantly increase productivity, quality, and project stability.
+18 Porter–Votta Effectiveness of inspections is fairly independent of its organizational form.
+19 Basili Perspective-based inspections are (highly) effective and efficient.
+20 Hetzel–Myers A combination of different V&V methods outperforms any single method alone.
+21 Sackman 1 Online debugging is more efficient than offline debugging.
+22 Dijkstra Testing can show the presence but not the absence of errors.
+23 Weinberg A developer is unsuited to test his or her code.
+24 Pareto–Zipf Approximately 80 percent of defects come from 20 percent of modules.
+25 Gray–Serlin Performance testing benefits from system-level benchmarks.
+26 Nielsen-Norman Usability is quantifiable.
+27 Lehman 1 A system that is used will be changed.
+28 Lehman 2 An evolving system increases its complexity, unless work is done to reduce it.
+29 Lehman 3 System evolution is determined by a feedback process.
+30 Basili–Möller Smaller changes have a higher error density than large ones.
+31 Sackman 2 Individual developer performance varies considerably.
+32 Nelson–Jones A multitude of factors influence developer productivity.
+33 Boehm 3 Development effort is a (non-linear) function of product size.
+34 DeMarco–Glass Most cost estimates tend to be too low.
+35 Humphrey Mature processes and personal discipline enhance planning, increase productivity, and reduce errors.
+36 Brooks Adding manpower to a late project makes it later.
+37 Baumol Products replace services through productivity gains.
+38 Kupfmüller Humans receive most information through the visual system and store it in a spatially organized memory.
+39 Gestalt Humans tend to structure what they see to form cohesive patterns.
+40 Miller Short-term memory is limited to 7 ± 2 chunks of information.
+41 Krause Multimodal information is easier to remember than single mode.
+42 Librarian The more knowledge that is available, the more effort has to be spent on the processes to use it.
+43 Apprentice It takes 5000 hours to turn a novice into an expert.
+44 Maslow-Herzberg  Human needs and desires are strictly prioritized.
+45 Moore The price/performance of processors is halved every 18 months.
+46 Hoagland The capacity of magnetic devices increases by a factor of ten every decade.
+47 Cooper Wireless bandwidth doubles every 2.5 years.
+48 Morris-Ferguson  Architecture wins over technology.
+49 Metcalfe The value of a network increases with the square of its users.
+50 Bayes The probability that a hypothesis is true increases the more unlikely the new event is that confirms this hypothesis.
+
+HYPOTHESIS
+1 Booch 1 Object model reduces communication problems between analysts and users.
+2 Booch 2 Object-oriented designs reduce errors and encourage reuse.
+3 Bauer-Zemanek  Formal methods significantly reduce design errors, or eliminate them early.
+4 Gamma Reusing designs through patterns yields faster and better maintenance.
+5 Dahl–Goldberg Object-oriented programming reduces errors and encourages reuse.
+6 Beck–Fowler Agile programming methods reduce the impact of requirement changes.
+7 Basili–Boehm COTS-based software does not eliminate the key development risks.
+8 Mills–Jones Quality entails productivity.
+9 Mays Error prevention is better than error removal.
+10 Hoare Proving programs solves the problems of correctness, documentation, and compatibility.
+11 Gutjahr Partition testing is more effective than random testing.
+12 Weyuker The adequacy of a coverage criterion can only be intuitively defined.
+13 Endres-Glatthaar The test suite needed to verify an arithmetic path expression can be determined.
+14 Hamlet Suspicion-based testing can be more effective than most other approaches.
+15 McCabe Complexity metrics are good predictors of post-release reliability and maintainability.
+16 Wilde Object-oriented programs are difficult to maintain.
+17 Boehm Project risks can be resolved or mitigated by addressing them early.
+18 McGregor Motivation requires integration and participation.
+19 Hawthorne Group behavior depends on the level of attention given.
+20 Marketer One unsatisfied customer can hurt more than two satisfied customers can help.
+21 Shaw–Garlan A sound architecture significantly reduces development and maintenance costs.
+22 Bayer In spite of disk capacity increases, data access can be kept efficient.
+23 Codd Databases can be independent of devices and applications.
+24 Engelbart Conceptual integrity is the result of a consistent mental model.
+25 Basili–Rombach Measurements require both goals and models.
+
+CONJECTURE
+1 For COTS products, costs and risks ofmanufacturing can approach those of development.
+2 Distribution ends where the customer wants it to end.
+3 Prevention of software piracy by technical means is almost impossible.
+4 Installability must be designed in.
+5 The larger the system, the greater the administration effort that is needed.
+6 Any system can be tuned.
+7 Human-based methods can only be studied empirically.
+8 Process improvements require action-based feedback.
+9 Learning is best accelerated by a combination of controlled experiments and case studies.
+10 Measurements are always based on actually used models rather than on desired ones.
+11 Empirical results are transferable only if abstracted and packaged with context.
+12 Empirically based modelsmature from understanding to explaining and predicting capability.
